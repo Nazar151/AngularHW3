@@ -1,0 +1,31 @@
+
+.navi {
+  height: 45px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rebeccapurple;
+}
+.users, .posts {
+  margin-top: 10px;
+  height: 25px;
+
+}
+.users {
+  margin-left: 800px;
+}
+
+.posts {
+  margin-right: 800px;
+}
+
+.main {
+width: 50vw;
+}
+a {
+  text-decoration-line: none;
+}
+.page {
+  position: absolute;
+
+
+}
